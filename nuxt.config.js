@@ -12,6 +12,7 @@ const productionUrl = {
 const baseUrl = 'https://marinaaisa.com';
 
 module.exports = {
+  target: 'server', 
   env: {
     baseUrl,
     productionUrl
@@ -121,9 +122,9 @@ module.exports = {
 
   generate: {
     routes: [
-      '/es', '404'
+      '404'
     ]
-    .concat(blogsEn.map(w => `/blog/${w}`))
-    .concat(blogsEs.map(w => `es/blog/${w}`))
+    .concat(blogsEs.map(w => `/blog/${w}`))
+    //.concat(blogsEs.map(w => `es/blog/${w}`))
   }
 }
