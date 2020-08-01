@@ -9,7 +9,7 @@ description: |
   Cómo he creado mi nueva web con portfolio y blog en dos idiomas. Qué tecnología he utilizado y por qué.
 ---
 
-## ¿Por qué re-hice mi web con Nuxt?
+## ¿Noxt?
 
 Aunque algunos ya me conoceis, soy [Marina Aísa](https://twitter.com/MarinaAisa), UX Engineer (diseño y front-end) y actualmente trabajo en [Holaluz](https://www.holaluz.com).
 

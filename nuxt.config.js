@@ -6,8 +6,6 @@ import blogsEs from './contents/es/blogsEs.js'
 import Mode from "frontmatter-markdown-loader/mode"
 
 const productionUrl = {
-  en: "/en",
-  es: "/es"
 };
 const baseUrl = 'https://marinaaisa.com';
 
